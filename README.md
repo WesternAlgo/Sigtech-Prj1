@@ -11,5 +11,3 @@
 #### For further reference, look at the github provided by the textbook. https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition/blob/master/02_market_and_fundamental_data/01_NASDAQ_TotalView-ITCH_Order_Book/01_parse_itch_order_flow_messages.ipynb
 
 
-### To download the data that will be used to play around with the orderbook around, run the import.py file in an empty directory. That will download the data in the h5 format.
-
