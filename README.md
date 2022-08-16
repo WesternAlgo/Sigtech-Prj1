@@ -2,6 +2,8 @@
 
 ## Tutorial for dowloading NASDAQ ITCH data
 
+#### Clone the repo onto your desktop
+
 #### Run imports.py, within the code you can select the specific day of trading to download by visiting <<'https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/'>>
 
 #### Next run processing.py . This program sets up the code to download the data and label it. Note, the size of the file is quite large (~7GB). Once the data is downloaded this sequence of program should not have to be run anymore. To know if you completed the steps correctly, a graph should be outputted with showcasing the volumes traded for each company. (Not exactly sure how it will show when it's run through .py program instead of jupyter).
