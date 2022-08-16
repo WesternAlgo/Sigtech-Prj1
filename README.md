@@ -1,7 +1,5 @@
 # Sigtech-Prj1
 
-## Note, this repo is currently not finished and thus you should hold off until, everything is properly set up.
-
 ## Tutorial for dowloading NASDAQ ITCH data
 
 #### Run imports.py, within the code you can select the specific day of trading to download by visiting <<'https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/'>>
